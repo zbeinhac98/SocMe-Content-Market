@@ -5,7 +5,7 @@
 #then need to change what stock_graph retrieves.
 #then need to change where the buy and sell functions pull and do math with
 #doesn't discern between the three
-
+#what next?
 #in daily total function need need need to input right platform because right now just says youtube
 
 #uwsgi or gunicorn for production ready server need to implement. 
